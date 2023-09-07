@@ -1,1 +1,1 @@
-This SQL lite-based program coverts any file of type json, csv, and xml to an sql lite database when passed in as an agrument
+This SQL lite-based python program coverts any file of type json, csv, and xml to an sql lite database when passed in as an agrument. This was written in my senior year of high school as a part of my Computer Science Independent Studies class.
