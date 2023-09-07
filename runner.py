@@ -7,6 +7,5 @@ if __name__ == '__main__':
     # You can assume that sys.argv[1] is the name
     # of the file to import and that it exists.
     #
-    
     i = Importer()
     i.import_file(sys.argv[1])
