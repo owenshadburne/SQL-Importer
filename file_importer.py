@@ -64,6 +64,5 @@ class Importer:
 
     def import_xml(self, filename):
         root = ET.parse(filename + '.xml').getroot()
-        #xml can f*cking burn in the darkest depths of hell
 
     
