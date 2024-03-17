@@ -1,6 +1,6 @@
 # SQL Importer
 
-A lightweight Python program that converts .json, .csv, and .xml files into an SQLite database.
+Engineered a lightweight Python program for converting any json, csv, or xml file into an SQLite database.
 > Created my Senior year of High School as an academic project.
 
 ![image](https://github.com/owenshadburne/SQL-Import/assets/124115160/50fef02e-33ea-4a35-80c1-29033d8f4eed)
